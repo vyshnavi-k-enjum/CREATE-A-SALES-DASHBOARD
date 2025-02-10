@@ -34,4 +34,6 @@ For a comprehensive walkthrough, consider exploring templates and tutorials that
 
 By following these steps and utilizing the available resources, you can develop an interactive and insightful Power BI dashboard that effectively presents sales trends, top products, and regional performance. This exercise not only enhances your data visualization skills but also provides valuable insights into sales data, aiding in informed decision-making
 
- 
+# OUTPUT 
+![Image](https://github.com/user-attachments/assets/ac267884-4e29-439a-b6c5-2a845b8efa22)
+

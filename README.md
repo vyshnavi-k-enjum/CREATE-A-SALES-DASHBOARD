@@ -3,6 +3,7 @@
 * NAME* : ENJUM VYSHNAVI KEERTHI
 * INTERN ID*: CT08NTO
 * DOMAIN*: POWER BI
+* DURATION*: 4 WEEKS FROM JANUARY TO 30TH TO MARCH 1ST 2025
 * MENTOR*: NEELA SANTOSH
 # DESCRIPTION: 
 Developing a Power BI dashboard to visualize sales trends, top products, and regional performance is a valuable exercise in data analysis and business intelligence. Power BI, an interactive data visualization tool developed by Microsoft, enables users to transform raw data into insightful and actionable information through dynamic and interactive dashboards.
